@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+X;chmod g+x;chmod o+x
+chmod 551
